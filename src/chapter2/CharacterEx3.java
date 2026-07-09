@@ -6,7 +6,7 @@ public class CharacterEx3 {
         int b = -65;
 
         char a2 = 65;
-        //char b2 = -65;
+        //char b2 = -65 -> 문자형 변수에 음수 넣어서 오류 발생
 
         System.out.println((char)a);
         System.out.println((char)b);
